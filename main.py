@@ -1,5 +1,3 @@
-
-
 import string
 
 def text_indices(text, alphabet):
